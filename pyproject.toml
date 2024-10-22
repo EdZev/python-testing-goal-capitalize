@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "python-testing-goal-capitalize"
+version = "0.1.0"
+description = "Educational project. Python: Automated Testing"
+repository = "https://github.com/EdZev/python-testing-goal-capitalize"
+authors = ["Edker <p89028084234@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
